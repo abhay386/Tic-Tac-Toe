@@ -83,14 +83,7 @@ nav ul{
     border-bottom :0;
 }
 
-.line{
-    background-color: black;
-    height: 5px;
-    width: 0;
-    position:absolute;
-    background-color: #24f311;
-    transition: width 1s ease-in-out;
-}
+
 
 .reset{
     margin:10px;
